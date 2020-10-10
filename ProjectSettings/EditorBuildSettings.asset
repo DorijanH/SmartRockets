@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d3309b15c575db04081ba65112eba77a
+  - enabled: 1
+    path: Assets/Scenes/TrainMode.unity
+    guid: d0f26113d523b8d46b0d24204e208e0c
+  m_configObjects: {}
